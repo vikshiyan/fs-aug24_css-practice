@@ -9,7 +9,7 @@ body {
 .people {
   box-sizing: border-box;
   justify-content: center;
-  gap: 30px 71px;
+  gap: 30px 40px;
   display: grid;
 }
 
